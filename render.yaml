@@ -1,7 +1,7 @@
 # Exported from Render on 2024-05-08T07:26:25Z
 services:
 - type: web
-  name: nyanyanyacat
+  name: valley-is-nice
   runtime: python
   repo: https://github.com/Skype-GitHub/YUKI-GOD
   plan: free
