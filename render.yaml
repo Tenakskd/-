@@ -3,7 +3,7 @@ services:
 - type: web
   name: valley-is-nice
   runtime: python
-  repo: https://github.com/Skype-GitHub/YUKI-GOD
+  repo: https://github.com/metohokuro/nyanayaaaa
   plan: free
   buildCommand: pip install -r requirements.txt
   startCommand: uvicorn --port $PORT --host 0.0.0.0 main:app
