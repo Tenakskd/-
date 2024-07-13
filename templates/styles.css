@@ -1,0 +1,24 @@
+/* styles.css */
+#homeLink {
+    position: fixed;
+    top: 10px; /* 上から10pxの位置に配置 */
+    left: 10px; /* 左から10pxの位置に配置 */
+    background-color: #008CBA; /* リンクの背景色 */
+    color: white; /* リンクのテキスト色 */
+    padding: 10px 20px; /* リンクの内側余白 */
+    text-align: center; /* テキストを中央揃え */
+    text-decoration: none; /* テキストの装飾を消す */
+    font-size: 16px; /* フォントサイズ */
+    cursor: pointer; /* カーソルをポインターにする */
+    z-index: 1000; /* 他の要素の上に表示されるようにする */
+    border-radius: 5px; /* 角を丸くする */
+}
+
+#homeLink:hover {
+    background-color: #005f7a; /* ホバー時の背景色 */
+}
+
+#content {
+    margin-top: 50px; /* 上に余白を設ける */
+    /* その他のスタイル */
+}
