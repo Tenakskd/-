@@ -9,7 +9,7 @@ import subprocess
 from cache import cache
 ver = "2.4.3"
 update = "新機能テスト"
-token = "e4f5c13f-4f31-4ae1-ac5c-b3f1df232073"
+token = "metohokuro"
 max_api_wait_time = 3
 max_time = 10
 apis = [r"https://inv.tux.pizza/",r"https://invidious.private.coffee/",r"https://iv.datura.network/",r"https://invidious.fdn.fr/",r"https://invidious.perennialte.ch/",r"https://invidious.materialio.us/"]
